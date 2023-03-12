@@ -1,0 +1,23 @@
+Brief Scenario Descriptions
+
+1. User who did not previously use removable drives or work after
+hours begins logging in after hours, using a removable drive, and
+uploading data to wikileaks.org. Leaves the organization shortly
+thereafter.
+
+2. User begins surfing job websites and soliciting employment from a
+competitor. Before leaving the company, they use a thumb drive (at
+markedly higher rates than their previous activity) to steal data.
+
+3. System administrator becomes disgruntled. Downloads a keylogger and
+uses a thumb drive to transfer it to his supervisor's machine. The
+next day, he uses the collected keylogs to log in as his supervisor
+and send out an alarming mass email, causing panic in the
+organization. He leaves the organization immediately.
+
+4. A user logs into another user's machine and searches for
+interesting files, emailing to their home email. This behavior occurs
+more and more frequently over a 3 month period.
+
+5. A member of a group decimated by layoffs uploads documents to
+Dropbox, planning to use them for personal gain.

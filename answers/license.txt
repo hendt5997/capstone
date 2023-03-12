@@ -1,0 +1,33 @@
+Upon downloading, accessing or using these test data files produced by the ExactData Dynamic Data Generator (DDG) tool, you are formally confirming your agreement to the following End User Agreement.
+
+End User Agreement:
+All Test Data Files contained within Copyright © 2011 ExactData, LLC All Rights Reserved
+
+All Test Data Files are provided pursuant to Software Engineering Institute agreement #12-00121-EXP-000 between Carnegie Mellon University and ExactData, LLC. 
+
+Applicable FARS/DFARS Restrictions Apply to Government Use.
+
+U.S. Government Rights
+  U.S. government rights to use, modify, reproduce, release, perform, display, or disclose these technical data and/or computer data bases and/or computer software and/or computer software documentation are subject to the limited rights restrictions of DFARS 252.227-7015(b)(2) (November 1995) and/or subject to the restrictions of DFARS 227.7202-1(a) (June 1995) and DFARS 227.7202-3(a) (June 1995), as applicable, for U.S. Department of Defense procurements and the limited rights restrictions of FAR 52.227-14 (December 2007) and/or subject to the restricted rights provisions of FAR 52.227-14 (December 2007) and FAR 52.227-19 (December 2007), as applicable, and any applicable agency FAR Supplements, for non-Department of Defense Federal procurements.
+
+Grant of Rights Restrictions
+  (a)  Except as provided below, the End User is prohibited from publishing, distributing via the Internet or other public computer based information system, creating derivative works (including translating), transferring, selling, leasing, licensing or otherwise making available to any unauthorized party the Licensed Products, or a copy or portion of Licensed Products.
+  (b)  End User must ensure that anyone with authorized access to the Licensed Products will comply with the provisions of the End User Agreement.
+  (c) Notwithstanding the foregoing, End User is permitted to create derivative works that are based on use of the Licensed Products, including but not limited to reports and research papers, provided such derivative works only incorporate the Licensed Products to the minimal extent necessary to describe the performance of the systems tested.  To the maximum extent practicable, End User shall refer to the general qualities of the data rather than reproduce the actual Licensed Products.  If End User must reproduce portions of the Licensed Products,  the following copyright notice shall accompany such use: “Copyright © 2011 ExactData, LLC, All Rights Reserved.”
+
+Back Up Rights
+  (a)  End User may only make copies of the Licensed Product for back up or archival purposes.
+  (b)  All notices of proprietary rights, including trademark and copyright notices, must appear on all permitted back up or archival copies made.
+
+Miscellaneous
+  (a)  The End User will limit, to the extent possible under the applicable laws, the warranties and liability for Content as contained in the Licensed Products, that Content as contained in the Licensed Products is provided “as is” without any liability to ExactData, and that ExactData's sole responsibility is to make available the data; and that ExactData disclaims any liability for any consequences due to use, misuse, or interpretation of information contained or not contained in Content.
+  (b)  The End User Agreement will terminate in the event of default.
+  (c) The End User Agreement will require a license fee or other consideration. 
+  (d)  The End User Agreement in the event a provision is determined to violate any law or is unenforceable the remainder of the End User Agreement will remain in full force and effect.
+
+Questions regarding the ExactData Dynamic Data Generator (DDG) tool and Test Data Files may be directed to:
+  E. Todd Johnsson, COO
+  ExactData, LLC
+  200 Canal View Boulevard, Rochester, NY 14623
+  todd.johnsson@exactdata.net
+  Phone:  585-239-6059
